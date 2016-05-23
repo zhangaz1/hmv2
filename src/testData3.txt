@@ -1,0 +1,14 @@
+one is I
+five is V
+ten is X
+fifty is L
+handred is C
+fifhandred is D
+thousand is M
+handred handred ten ten five Pig is 450 Credits
+handred ten Dog is 330 Credits
+how much is handred thousand fifty ten ten ten five one one ?
+how many Credits is handred ten Pig ?
+what is your name?
+how many Credits is five Dog ?
+how much is ten ten ten ten ten ?
